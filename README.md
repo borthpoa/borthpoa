@@ -11,7 +11,7 @@
 
 <div>
     <a href="https://github.com/borthpoa/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=borthpoa&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=borthpoa&show_icons=true&theme=tokyonight&count_private=true"/>
   </div>
     
 
