@@ -15,6 +15,3 @@
   </div>
     
 
-  <img align="center" img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=borthpoa&repo=github-readme-stats" />
-</a>
-
